@@ -1,5 +1,4 @@
-### hi there
-Welcome to my perfil
+### Welcome to my perfil
 My name is Diogo Feitoza
 I'm studying in Alura
 'm desevolving me in JavaScript language
